@@ -4,9 +4,9 @@
 
 # Gradle
 
-AndroidUtilsLibrary/utilslibrary 为 Android Library，添加下面依赖即可使用：
+AppUtils/utils-lib 为 Android Library，添加下面依赖即可使用：
 
-	compile project(':utilslibrary')
+	compile project(':utils-lib')
 
 # 各个包下的工具类
 
